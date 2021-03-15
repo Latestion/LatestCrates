@@ -1,0 +1,10 @@
+name: LatestCrates
+version: ${project.version}
+main: me.latestion.latestcrates.LatestCrates
+api-version: 1.16
+depend: [Vault]
+
+commands:
+  crate:
+  crateloot:
+  cratesgui:
